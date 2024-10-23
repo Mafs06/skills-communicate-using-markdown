@@ -11,3 +11,7 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ![Image of Robotocat](https://octodex.github.com/images/Robotocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
